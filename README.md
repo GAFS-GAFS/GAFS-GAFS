@@ -32,7 +32,7 @@ I'm currently studying Biomedical IT at UFPR!</p>
 <div style="display: flex; align-items: flex-start; gap: 20px;">
 
   <!-- Imagem -->
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.linkedin.com%2Fcompany%2Fecomp-ufpr&psig=AOvVaw0Lz0Q0q7VyY87HfB7dTiGF&ust=1734322263789000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLiQ9IX0qIoDFQAAAAAdAAAAABAE" alt="Logo da Empresa" style="border-radius: 10px;"/>
+  <img src="https://media.licdn.com/dms/image/v2/C4E0BAQH52NBaBJ3Chw/company-logo_200_200/company-logo_200_200/0/1657585171504/ecomp_ufpr_logo?e=2147483647&v=beta&t=i7QbJ6k7IvbFlij5fK34ETk36csIGkLd1pfwoia3oAs" alt="Logo da Empresa" style="border-radius: 10px;"/>
 
   <!-- Texto -->
   <div>
