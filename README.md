@@ -29,19 +29,7 @@ I'm currently studying Biomedical IT at UFPR!</p>
 </div>
 
 ### Onde já trabalhei!
-<div style="display: flex; align-items: flex-start; gap: 20px;">
-
-  <!-- Imagem -->
-  <img  heigth="20em" src="https://media.licdn.com/dms/image/v2/C4E0BAQH52NBaBJ3Chw/company-logo_200_200/company-logo_200_200/0/1657585171504/ecomp_ufpr_logo?e=2147483647&v=beta&t=i7QbJ6k7IvbFlij5fK34ETk36csIGkLd1pfwoia3oAs" alt="Logo da Ecomp" style="border-radius:"/>
-
-  <!-- Texto -->
-  <div>
-    <h3>Ecomp</h3>
-    <p> 
-      ° **Cargo:** Desenvolvedor Back-End. <br>
-      ° **Período:** Junho de 2023 - Agosto de 2024. <br> 
-      ° **Responsabilidades:** Acesso de Desenvolvimento Humano, Acessor de Qualidade!
-    </p>
-  </div>
-  
-</div>
+**Front-end Developer (Jr)** \
+[**Ecomp**](https://ecomp.co/) • Volunteering • Projects director • 2023 & 2024 \
+Languages: `JavaScript`, `Vue`, `Nuxt`, `Vuetify` \
+Featured projects: [Juntos Pelo Miguel](https://miguellorenzo.org/), [JR Consultoria](http://jrconsultoria.com.br/), [Site da Ecomp](https://ecomp.co/)
