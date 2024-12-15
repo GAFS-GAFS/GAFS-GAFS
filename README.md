@@ -7,7 +7,7 @@ I'm currently studying Biomedical IT at UFPR!
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GAFS-GAFS&layout=compact&langs_count=7&theme=dark&border_color=00000000"/>
 </div>
 
-### Liguagens e Ferramentas Utilizadas!
+### Liguagens e Ferramentas que tenho Conhecimento!
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
