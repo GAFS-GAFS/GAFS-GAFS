@@ -25,3 +25,22 @@ I'm currently studying Biomedical IT at UFPR!
   <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
 </div>
+
+### Onde já trabalhei!
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+
+  <!-- Imagem -->
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.linkedin.com%2Fcompany%2Fecomp-ufpr&psig=AOvVaw0Lz0Q0q7VyY87HfB7dTiGF&ust=1734322263789000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLiQ9IX0qIoDFQAAAAAdAAAAABAE" alt="Logo da Empresa" style="border-radius: 10px;"/>
+
+  <!-- Texto -->
+  <div>
+    <h3>Ecomp</h3>
+    <p>
+      Aqui você pode escrever detalhes sobre o lugar onde trabalhou, como o cargo ocupado, período e responsabilidades. Por exemplo:  
+      - **Cargo:** Desenvolvedor Back-End.  
+      - **Período:** Junho de 2023 - Agosto de 2024 
+      - **Responsabilidades:** Acesso de Desenvolvimento Humano, Acessor de Qualidade!
+    </p>
+  </div>
+  
+</div>
