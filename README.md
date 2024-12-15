@@ -32,7 +32,11 @@ I'm currently studying Biomedical IT at UFPR!</p>
 
 [<img align="left" height="160px" width="160px" alt="Ecomp" src="https://media.licdn.com/dms/image/C4E0BAQH52NBaBJ3Chw/company-logo_200_200/0/1657585171137?e=2147483647&v=beta&t=W_HaSuUsGZNfW0ejGZl6sTLZqky4MTCpYvMtCgaCzB4"/>](https://ecomp.co/)
 
+---
+
 **Backend Developer (Jr)** \
 [**Ecomp**](https://ecomp.co/) • Volunteering • Projects director • 2023 & 2024 \
 Linguagens: `MariaDB`, `PHP`, `Nuxt`\
 Projetos: Azimute (em Construção!).
+
+---
