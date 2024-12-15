@@ -1,6 +1,6 @@
-Olá! Sou Gabriel Fabri!
+## Olá! Sou Gabriel Fabri!
 <br/>
-Hi! Im Gabriel Fabri!
+## Hi! Im Gabriel Fabri!
 <br/>
 
 Atualmente estudo Informática Biomédica na UFPR!  
