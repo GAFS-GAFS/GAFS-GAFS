@@ -35,7 +35,7 @@ I'm currently studying Biomedical IT at UFPR!</p>
 ---
 
 **Backend Developer (Jr)** \
-[**Ecomp**](https://ecomp.co/) • Volunteering • Projects director • 2023 & 2024 \
+[**Ecomp**](https://ecomp.co/) • Voluntario • Assessor de Desenvolvimento Humano e Qualidade • 2023 & 2024 \
 Linguagens: `MariaDB`, `PHP`, `Laravel`\
 Projetos: Azimute (em Construção!).
 
