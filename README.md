@@ -1,6 +1,8 @@
 ## Hi! I'm Gabriel Fabri!
-Atualmente estudo Informática Biomédica na UFPR!  
-I'm currently studying Biomedical IT at UFPR!
+<div>
+<p>Atualmente estudo Informática Biomédica na UFPR!</p>  
+<p>I'm currently studying Biomedical IT at UFPR!</p>
+</div>
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=GAFS-GAFS&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_color=00000000"/>
