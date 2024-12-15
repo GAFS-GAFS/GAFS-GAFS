@@ -36,9 +36,9 @@ I'm currently studying Biomedical IT at UFPR!
   <div>
     <h3>Ecomp</h3>
     <p> 
-      - **Cargo:** Desenvolvedor Back-End.  
-      - **Período:** Junho de 2023 - Agosto de 2024 
-      - **Responsabilidades:** Acesso de Desenvolvimento Humano, Acessor de Qualidade!
+      * **Cargo:** Desenvolvedor Back-End.  
+      * **Período:** Junho de 2023 - Agosto de 2024 
+      * **Responsabilidades:** Acesso de Desenvolvimento Humano, Acessor de Qualidade!
     </p>
   </div>
   
