@@ -6,3 +6,7 @@ I'm currently studying Biomedical IT at UFPR!
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GAFS-GAFS&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_color=00000000"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GAFS-GAFS&layout=compact&langs_count=7&theme=dark&border_color=00000000"/>
 </div>
+
+<div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+</div>
