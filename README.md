@@ -35,8 +35,7 @@ I'm currently studying Biomedical IT at UFPR!
   <!-- Texto -->
   <div>
     <h3>Ecomp</h3>
-    <p>
-      Aqui você pode escrever detalhes sobre o lugar onde trabalhou, como o cargo ocupado, período e responsabilidades. Por exemplo:  
+    <p> 
       - **Cargo:** Desenvolvedor Back-End.  
       - **Período:** Junho de 2023 - Agosto de 2024 
       - **Responsabilidades:** Acesso de Desenvolvimento Humano, Acessor de Qualidade!
