@@ -29,7 +29,7 @@ I'm currently studying Biomedical IT at UFPR!</p>
 </div>
 
 ### Onde já trabalhei!
-**Front-end Developer (Jr)** \
+**Backend Developer (Jr)** \
 [**Ecomp**](https://ecomp.co/) • Volunteering • Projects director • 2023 & 2024 \
 Languages: `JavaScript`, `Vue`, `Nuxt`, `Vuetify` \
-Featured projects: [Juntos Pelo Miguel](https://miguellorenzo.org/), [JR Consultoria](http://jrconsultoria.com.br/), [Site da Ecomp](https://ecomp.co/)
+Featured projects: Azimute (em Construção!).
