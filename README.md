@@ -8,6 +8,7 @@ I'm currently studying Biomedical IT at UFPR!</p>
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=GAFS-GAFS&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&border_color=00000000"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GAFS-GAFS&layout=compact&langs_count=7&theme=transparent&border_color=00000000"/>
 </div>
+
 ### Linguagens e Ferramentas que tenho Conhecimento!
 <div style="display: flex; align-items: flex-start; gap: 20px;">
 
@@ -22,9 +23,6 @@ I'm currently studying Biomedical IT at UFPR!</p>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
   </div>
 
-  <!-- GIF à Direita -->
-  <img src="https://media.giphy.com/media/3o7abkJzrxuPvMliHq/giphy.gif" alt="GIF" width="100" style="border-radius: 10px;"/>
-
 </div>
 
 ### Linguagens e Ferramentas que pretendo aprender!
@@ -34,6 +32,8 @@ I'm currently studying Biomedical IT at UFPR!</p>
   <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
 </div>
+
+
 
 
 ### Onde já trabalhei!
