@@ -31,5 +31,5 @@ I'm currently studying Biomedical IT at UFPR!</p>
 ### Onde já trabalhei!
 **Backend Developer (Jr)** \
 [**Ecomp**](https://ecomp.co/) • Volunteering • Projects director • 2023 & 2024 \
-Languages: `JavaScript`, `Vue`, `Nuxt`, `Vuetify` \
-Featured projects: Azimute (em Construção!).
+Linguagens: `MariaDB`, `PHP`, `Nuxt`\
+Projetos: Azimute (em Construção!).
