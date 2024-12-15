@@ -1,5 +1,5 @@
 ## Hi! I'm Gabriel Fabri!
-<div>
+<div style="display: aling-items; center; ">
 <p>Atualmente estudo Informática Biomédica na UFPR!</p>  
 <p>I'm currently studying Biomedical IT at UFPR!</p>
 </div>
