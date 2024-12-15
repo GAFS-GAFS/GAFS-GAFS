@@ -1,5 +1,3 @@
-## Olá! Sou Gabriel Fabri!
-<br/>
 ## Hi! Im Gabriel Fabri!
 <br/>
 
